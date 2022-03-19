@@ -1,0 +1,29 @@
+body{
+    font-family: cursive;
+    background:linear-gradient(#8e2de2, #4a00e0);
+    height: 100vh;
+    color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+
+.container a{
+    background-color: whitesmoke;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 1.5rem;
+    padding: 5px 10px;
+}
+
+iframe{
+    height: 600px;
+    width: 700px;
+}
